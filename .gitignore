@@ -1,5 +1,5 @@
 *.iml
 *.jar
-users-export.avro
+*.avro
 .idea
 target
